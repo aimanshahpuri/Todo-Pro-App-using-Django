@@ -1,3 +1,4 @@
+# this urls.py file is of App
 from django.urls import path
 from . import views
 
